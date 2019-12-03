@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">e2.7.2</string>
+    <string name="btn">Log in</string>
+    <string name="pass">Password</string>
+    <string name="log">Login</string>
+    <string name="txt"></string>
+    <string name="rbtn">Log up</string>
+</resources>
